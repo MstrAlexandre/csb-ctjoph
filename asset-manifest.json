@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://mstralexandre.github.io/csb-ctjoph/static/css/main.9856bf87.chunk.css",
+    "main.js": "https://mstralexandre.github.io/csb-ctjoph/static/js/main.72a2e92c.chunk.js",
+    "main.js.map": "https://mstralexandre.github.io/csb-ctjoph/static/js/main.72a2e92c.chunk.js.map",
+    "runtime-main.js": "https://mstralexandre.github.io/csb-ctjoph/static/js/runtime-main.c28c85ea.js",
+    "runtime-main.js.map": "https://mstralexandre.github.io/csb-ctjoph/static/js/runtime-main.c28c85ea.js.map",
+    "static/css/2.cbedb215.chunk.css": "https://mstralexandre.github.io/csb-ctjoph/static/css/2.cbedb215.chunk.css",
+    "static/js/2.933869ef.chunk.js": "https://mstralexandre.github.io/csb-ctjoph/static/js/2.933869ef.chunk.js",
+    "static/js/2.933869ef.chunk.js.map": "https://mstralexandre.github.io/csb-ctjoph/static/js/2.933869ef.chunk.js.map",
+    "index.html": "https://mstralexandre.github.io/csb-ctjoph/index.html",
+    "static/css/2.cbedb215.chunk.css.map": "https://mstralexandre.github.io/csb-ctjoph/static/css/2.cbedb215.chunk.css.map",
+    "static/css/main.9856bf87.chunk.css.map": "https://mstralexandre.github.io/csb-ctjoph/static/css/main.9856bf87.chunk.css.map",
+    "static/js/2.933869ef.chunk.js.LICENSE.txt": "https://mstralexandre.github.io/csb-ctjoph/static/js/2.933869ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c28c85ea.js",
+    "static/css/2.cbedb215.chunk.css",
+    "static/js/2.933869ef.chunk.js",
+    "static/css/main.9856bf87.chunk.css",
+    "static/js/main.72a2e92c.chunk.js"
+  ]
+}
